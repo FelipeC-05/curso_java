@@ -39,7 +39,7 @@ public class ex5 {
 			System.out.printf("Total: %.2f%n", total);
 			break;
 		default:
-			System.out.println("Codigo valor de codigo nao encontrado no sistema.");
+			System.out.println("Valor de codigo informado não encontrado no sistema.");
 			break;
 		}
 		

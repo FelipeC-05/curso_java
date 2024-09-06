@@ -18,7 +18,7 @@ public class ex4 {
 			duracao = 24 - horaInicial + horaFinal;
 		}
 		
-		System.out.println("O JOGO DUROU" + duracao + "HORAS(S)");
+		System.out.println("O JOGO DUROU " + duracao + " HORAS(S)");
 		
 		sc.close();
 		
