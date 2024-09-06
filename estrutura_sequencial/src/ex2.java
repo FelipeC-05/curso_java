@@ -20,7 +20,7 @@ public class ex2 {
 
 		A = pi * R * R;
 
-		System.out.printf("A=%.4f%n", A);
+		System.out.printf("A= %.4f%n", A);
 
 		sc.close();
 
