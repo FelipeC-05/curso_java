@@ -69,7 +69,6 @@ public class funcionarios {
 			emp.increaseSalary(percent);
 		}
 		
-		System.out.println();
 		System.out.println("List of employees:");
 		for (Employee e : list) {
 			System.out.println(e);
