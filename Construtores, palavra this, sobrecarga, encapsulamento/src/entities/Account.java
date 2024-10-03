@@ -11,7 +11,6 @@ public class Account {
 	}
 
 	public Account(int number, String holder, double initialDeposit) {
-		super();
 		this.number = number;
 		this.holder = holder;
 		deposit(initialDeposit);
