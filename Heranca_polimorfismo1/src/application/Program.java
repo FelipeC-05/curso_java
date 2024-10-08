@@ -26,9 +26,9 @@ public class Program {
 			System.out.print("Name: ");
 			sc.nextLine();
 			String name = sc.nextLine();
-			System.out.println("Hours: ");
+			System.out.print("Hours: ");
 			int hours = sc.nextInt();
-			System.out.println("Value per hour: ");
+			System.out.print("Value per hour: ");
 			double valuePerHour = sc.nextDouble();
 			
 			if(ch == 'y') {
